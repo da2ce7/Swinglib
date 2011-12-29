@@ -5,7 +5,7 @@
 package net.sf.swinglib.actions;
 
 import javax.swing.Action;
-import net.sf.swing.dialog.IDialog;
+import net.sf.swinglib.dialog.IDialog;
 
 /**
  *

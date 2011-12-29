@@ -7,9 +7,9 @@ package net.sf.swinglib.field;
 import java.util.Map;
 import javax.swing.text.BadLocationException;
 import javax.swing.text.Document;
-import net.sf.swing.document.DocStateChangedEvent;
-import net.sf.swing.document.DocStateChangedEventListener;
-import net.sf.swing.document.DocWatcher;
+import net.sf.swinglib.document.DocStateChangedEvent;
+import net.sf.swinglib.document.DocStateChangedEventListener;
+import net.sf.swinglib.document.DocWatcher;
 import net.sf.swinglib.actions.FieldValidationChange;
 
 /**

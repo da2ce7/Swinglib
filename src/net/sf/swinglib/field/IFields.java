@@ -5,7 +5,7 @@
 package net.sf.swinglib.field;
 
 import javax.swing.text.Document;
-import net.sf.swing.document.DocWatcher;
+import net.sf.swinglib.document.DocWatcher;
 import net.sf.swinglib.actions.FieldValidationChange;
 
 /**
