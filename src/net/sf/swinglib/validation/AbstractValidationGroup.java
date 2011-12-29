@@ -47,7 +47,7 @@ public abstract class AbstractValidationGroup<Group extends Enum<Group>> {
         if (_state != newstate){
             _state = newstate;
             fireValidationChangedEvent(new ValidationChangedEvent(this, _state));
-            System.out.println("fieldStatusChanged!!");
+            //System.out.println("fieldStatusChanged!!");
         }
     }
 
